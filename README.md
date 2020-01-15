@@ -1,2 +1,3 @@
 # notes
-This repository is used to taking notes. Ha! Ha! Ha!
+This repository is used to taking notes. 
+Ha! Ha! Ha!
